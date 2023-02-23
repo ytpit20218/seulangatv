@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" group-title="Seulangatv" tvg-logo="", Test 1
+#EXTINF:-1 tvg-id="" group-title="Seulangatv" tvg-logo="", Sport 2 Israel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=141
 https://ddy6.onlinewebtv.lol/ddy6/premium141/playlist.m3u8
@@ -64,3 +64,7 @@ https://ddy6.onlinewebtv.lol/ddy6/premium432/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=433
 https://ddy6.onlinewebtv.lol/ddy6/premium433/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" group-title="Seulangatv" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_3_SI_logo.png", Arena Sport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=43
+https://ddy5.onlinewebtv.lol/ddy5/premium431/playlist.m3u8
