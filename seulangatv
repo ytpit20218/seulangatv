@@ -1,8 +1,30 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" group-title="Seulangatv" tvg-logo="", Sport 2 Israel
+#EXTINF:-1 tvg-id="" group-title="Seulangatv" tvg-logo="https://sport1.maariv.co.il/app/uploads/2020/05/sport1-green-sagol-1.png", Sport 1 Israel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=141
-https://ddy6.onlinewebtv.lol/ddy6/premium141/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=140
+https://ddy6.onlinewebtv.lol/ddy6/premium140/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Seulangatv" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport-2-il.png", Sport 2 Israel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=142
+https://ddy6.onlinewebtv.lol/ddy6/premium142/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Seulangatv" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport-3-il.png", Sport 3 Israel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=143
+https://ddy6.onlinewebtv.lol/ddy6/premium143/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Seulangatv" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport-4-il.png", Sport 4 Israel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=144
+https://ddy6.onlinewebtv.lol/ddy6/premium144/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Seulangatv" tvg-logo="https://www.sport5.co.il/Images/Rebrand/sport5og.png", Sport 5 Israel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=145
+https://ddy6.onlinewebtv.lol/ddy6/premium145/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-id="" group-title="Seulangatv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/Astro_AEC_HD.jpg", Astro AEC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
@@ -104,11 +126,6 @@ https://ddy1.onlinewebtv.lol/ddy1/premium33/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=34
 https://ddy1.onlinewebtv.lol/ddy1/premium34/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Seulangatv" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png", Bein Sport 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
-#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=93
-https://ddyx2.onlinewebtv.lol/ddyx2/premium93/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" group-title="Seulangatv" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png", Bein Sport 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=95
@@ -128,3 +145,64 @@ https://ddy5.onlinewebtv.lol/ddy5/premium36/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
 #EXTVLCOPT:http-referrer=https://www.movie87hd.com/
 https://smart-tv.livedoomovies.com:4431/02_epl1_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Seulangatv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sky_Sport_Arena_-_Logo_2020.svg/2560px-Sky_Sport_Arena_-_Logo_2020.svg.png", Sky Sports Arena
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=36
+https://ddy5.onlinewebtv.lol/ddy5/premium36/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Seulangatv" tvg-logo="https://www.rofootball.com/wp-content/uploads/2022/11/qpyqws1470407526.png", SPORT TV 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=49
+https://ddy5.onlinewebtv.lol/ddy5/premium49/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Seulangatv" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/vpwuyu1470409212.png", SPORT TV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=74
+https://ddyx2.onlinewebtv.lol/ddyx2/premium74/playlist.m3u
+
+#EXTINF:-1 tvg-id="" group-title="Seulangatv" tvg-logo="https://www.unitedmedia.net/ea/wp-content/uploads/2018/10/SK1_HD.png", Sportklub1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=101
+https://ddy2.onlinewebtv.lol/ddy2/premium101/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Seulangatv" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Sportklub_2_HD.svg/revision/latest?cb=20220305141404", Sportklub2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=102
+https://ddy2.onlinewebtv.lol/ddy2/premium102/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Seulangatv" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/Sportklub_3_HD.svg/revision/latest?cb=20220305193613", Sportklub3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=103
+https://ddy1.onlinewebtv.lol/ddy1/premium103/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Seulangatv" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Sportklub_4.svg/revision/latest?cb=20220306120451", Sportklub4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=103
+https://ddy1.onlinewebtv.lol/ddy1/premium104/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Seulangatv" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-action-live.png", Supersport Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=420
+https://ddy6.onlinewebtv.lol/ddy6/premium420/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Seulangatv" tvg-logo="https://img.sport-tv-guide.live/images/stations/a670.png", Supersport Cricket
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=368
+https://ddy1.onlinewebtv.lol/ddy1/premium368/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Seulangatv" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-football.png", Supersport Football
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=56
+https://ddy1.onlinewebtv.lol/ddy1/premium56/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Seulangatv" tvg-logo="https://cdn.24.co.za/files/supersport/201.png", Supersport Grandstand
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=412
+https://ddy6.onlinewebtv.lol/ddy6/premium412/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Seulangatv" tvg-logo="https://archive.org/download/racinguk-01_202011/supersport-motorsport.png", Supersport Motorsport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=424
+https://ddy6.onlinewebtv.lol/ddy6/premium424/playlist.m3u8
+
