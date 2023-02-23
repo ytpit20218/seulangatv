@@ -83,3 +83,24 @@ https://ddyx2.onlinewebtv.lol/ddyx2/premium98/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=99
 https://ddyx2.onlinewebtv.lol/ddyx2/premium99/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Seulangatv" tvg-logo="https://media.info/i/lf/0/1647384977/1539.png", BT Sport 1 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=31
+https://ddy1.onlinewebtv.lol/ddy1/premium31/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Seulangatv" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/1/1540.1647385004.png", BT Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=32
+https://ddy1.onlinewebtv.lol/ddy1/premium32/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Seulangatv" tvg-logo="https://thelogofinder.com/wp-content/uploads/edd/2021/11/BT-Sport-3-HD-Dark.svg", BT Sport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=33
+https://ddy1.onlinewebtv.lol/ddy1/premium33/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Seulangatv" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_4_2022_WHITE_RGB.png", BT Sport 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=34
+https://ddy1.onlinewebtv.lol/ddy1/premium34/playlist.m3u8
+
