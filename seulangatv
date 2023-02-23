@@ -29,10 +29,15 @@ https://ddy1.onlinewebtv.lol/ddy1/premium126/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=127
 https://ddy1.onlinewebtv.lol/ddy1/premium127/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Seulangatv" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/455_144.png", Không biết kênh gì
+#EXTINF:-1 tvg-id="" group-title="Seulangatv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png", Telemundo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=131
 https://ddy1.onlinewebtv.lol/ddy1/premium131/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Seulangatv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png", Không biết kênh gì
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/premiumtv/daddy.php?id=131
+https://ddy5.onlinewebtv.lol/ddy5/premium132/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Seulangatv" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/Arena-1-premium_266x2001.png/revision/latest/scale-to-width-down/300?cb=20221111133001", Arena 1 Premium
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.59
